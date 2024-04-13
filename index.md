@@ -6,3 +6,5 @@
 ###### Header 6
 
 I created six headers of different sizes.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
